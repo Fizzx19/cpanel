@@ -1,14 +1,14 @@
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.owner = "6289516586055"
-global.namabot = "𝗝𝗔𝗬𝗭-𝗕𝗢𝗧𝗭*"
-global.namaCreator = "𝗝𝗔𝗬𝗭"
+global.owner = "6285776568948"
+global.namabot = "Natsu UNIVERSE*"
+global.namaCreator = "FizzxDEV"
 global.autoJoin = true
 global.antilink = false
 global.versisc = '3.0.0'
 global.codeInvite = "FxHYWIP1p8ZA8nuC0ZGJHv" //JANGAN DI UBAH 
-global.domain = '-' // Isi Domain Lu
+global.domain = '' // Isi Domain Lu
 global.apikey = '-' // Isi Apikey Plta Lu
 global.capikey = '-' // Isi Apikey Pltc Lu
 global.eggsnya = '15' // id eggs yang dipakai
