@@ -9,8 +9,8 @@ global.antilink = false
 global.versisc = '3.0.0'
 global.codeInvite = "FxHYWIP1p8ZA8nuC0ZGJHv" //JANGAN DI UBAH 
 global.domain = 'natsuuuniverse.infinityfreeapp.com' // Isi Domain Lu
-global.apikey = '-' // Isi Apikey Plta Lu
-global.capikey = '-' // Isi Apikey Pltc Lu
+global.apikey = 'ptla_hJ1SrujllALfjFTFACeODxChmQSZqb3lYgSky2mZKcI' // Isi Apikey Plta Lu
+global.capikey = 'ptlc_igS3QgggA385hakQa1pr76CxkYAfkD84uWMNS5wSERE' // Isi Apikey Pltc Lu
 global.eggsnya = '15' // id eggs yang dipakai
 global.location = '1' // id location
 global.imageurl = 'https://telegra.ph/file/f7ddff0f6be473d4e6e6f.jpg'
@@ -20,8 +20,8 @@ global.audionya = fs.readFileSync("./all/sound.mp3")
 global.simbol = '∮'
 global.tekspushkon = ""
 global.tekspushkonv2 = ""
-global.packname = "© Created JAYZ"
-global.author = "JAYZ"
+global.packname = "© Created Fizzx"
+global.author = "Fizzx"
 global.jumlah = "5"
 
 //=================================================//
